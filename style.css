@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(29, 27, 27) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card1{
+    position: absolute;
+    width: 296px;
+    height: 173px;
+    left: 180.57px;
+    top: 161px;
+}
+
